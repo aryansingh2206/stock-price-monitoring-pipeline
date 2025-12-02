@@ -196,10 +196,6 @@ SELECT * FROM summary_24h;
 
 ---
 
-## 📜 License
-MIT License — free to use, modify, and share.
-
-```
 
 ---
 
